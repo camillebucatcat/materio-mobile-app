@@ -1,0 +1,208 @@
+.mlogo{
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 12px;
+    height: 27.34px;
+    width: 35px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+}
+.mtitle{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.272727px;
+    color: rgba(58, 53, 65, 0.87);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    text-align: center;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+.mhlogo{
+    justify-content: center;
+}
+.avatar{
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
+    border-radius: 16px;
+}
+.card{
+    background-color: transparent;
+    box-shadow: none;
+    width: 350px;
+    height: 100vh;
+
+}
+.logo{
+    height: 100%;
+    font-size: 30px;
+    color: #4F4F4F;
+}
+.logo:hover{
+    color: #804BDF;
+}
+.box{
+    --background:white;
+    --border-radius:15px;
+    width: 68px;
+    height: 74px;
+    color: white;
+    margin-top: -5px;
+}
+.box1,
+.box2,
+.box3{
+    border-radius: 15px;
+    width: 64px;
+    height: 74px;
+    background-color: white;
+    margin-left: 10px;
+}
+.boxlabel{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #4F4F4F;
+}
+.transactionl{
+    margin-top: 10px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #3B3B3B;
+}
+.seeall{
+    color: #804BDF;
+}
+.tranname{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+.trancost{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: right;
+    color: #F76165;
+    margin-right: 5px;
+}
+.trancost1{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: right;
+    color: #4F4F4F;
+    margin-right: 5px;
+}
+.tranprog{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #888888;
+    margin-top: -5px;
+    margin-left: 5px;
+}
+.transactionlayout{
+    width: 330px;
+}
+.pfp{
+    width: 40px;
+    height: 36px;
+    border-radius: 14px;
+}
+.usercard{
+    margin-left: 0px;
+    background: linear-gradient(114.88deg, #A681E9 9.37%, #804BDF 117.38%);
+    border-radius: 16px;
+    height: 189px;
+    width: 319px;
+}
+.cardusername{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 105.17%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: -10px;
+}
+.cardnumber{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 105.17%;
+    color: #FFFFFF;
+    
+}
+.cardlabel{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 105.17%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.cardexp{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 105.17%;
+    text-transform: uppercase;
+
+
+}
+.scanner{
+    width: 54px;
+    height: 54px;
+    margin-right: 5px;
+    background-color: #804BDF;
+    border-radius: 6px;
+
+}
+.fa-money-bill-transfer{
+    height: 100%;
+    font-size: 30px;
+    color: #4F4F4F;
+    margin-top: 18px;
+}
+.sendimg{
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+}
+.receiveimg{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+}
+.header-md::after {
+    display: none;
+  }

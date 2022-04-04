@@ -1,0 +1,105 @@
+.mp{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.469565px;
+    text-transform: uppercase;
+    color: #292A25;
+}
+.bb{
+    color: #2F2F2F;
+}
+.header-md::after {
+    display: none;
+  }
+.profilepic{
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+.up{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top:80px;
+    color: black;
+    margin-left: -35px;
+    background-color: #888888;
+    border-radius: 18px;
+    width: 28px;
+    height: 28px;
+}
+.addresssection,
+.contactsection,
+.namesection{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;  
+    text-transform: uppercase;
+    color: #804BDF;
+    margin-left: 10px;
+}
+.streetaddlabel,
+.appunitlabel,
+.citylabel,
+.statelabel,
+.ziplabel,
+.emaillabel,
+.mobilenumlabel,
+.lastnamelabel,
+.firstnamelabel{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #888888;
+}
+.streetadd,
+.appunit,
+.city,
+.state,
+.zip,
+.emailadd,
+.mobilenum,
+.firstname,
+.lastname{
+    margin-top: 10px;
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #303030;
+}
+.edit{
+    height: 22px;
+    width: 22px;
+    color: black;
+}
+.naviicon{
+    color: #4B484A;
+    height: 20px;
+    width: 20px;
+}
+.navilabel{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #292A25;
+    margin-left: -10px;
+}
+.naviarrow{
+    color: #804BDF;
+    height: 20px;
+    width: 20px;
+    margin-right: -8px;
+}

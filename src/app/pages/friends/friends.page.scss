@@ -1,0 +1,92 @@
+.mp{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.469565px;
+    text-transform: uppercase;
+    color: #292A25;
+}
+.bb{
+    color: #2F2F2F;
+}
+.header-md::after {
+    display: none;
+}
+.srchfr{
+    background: #E9EAEF;
+    border-radius: 6px;
+    color: #888888;
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.547826px;
+
+
+}
+ion-item.sc-ion-input-md-h:not(.item-label), ion-item:not(.item-label) .sc-ion-input-md-h {
+    --padding-start: 10px;
+}
+.sicon{
+    margin-left: 10px;
+    height: 20px;
+    width: 20px;
+}
+.addfrlbl{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #292A25;
+}
+.frname{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #292A25;
+}
+.frmail{
+    margin-left: 5px;
+    margin-top: -5px;
+}
+.userpfp{
+    height: 62px;
+    width: 62px;
+}
+.addicon{
+    height: 20px;
+    width: 20px;
+    color: black;
+    background-color: #D9D9DE;
+    border-radius: 6px;
+    width: 50px;
+    height: 50px;
+}
+.addfrlabel{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #292A25;
+    margin-top: 15px;
+}
+@media (max-width:360px) {
+    .addfrlabel{
+        font-family: 'Chivo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #292A25;
+        margin-top: 15px;
+        margin-left: 20px;
+    }
+}

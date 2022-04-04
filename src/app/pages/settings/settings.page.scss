@@ -1,0 +1,97 @@
+.cb{
+    color: #2F2F2F;
+}
+.header-md::after {
+    display: none;
+}
+.naviicon{
+    color: #4B484A;
+    height: 20px;
+    width: 20px;
+}
+.navilabel{
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #292A25;
+    margin-left: -20px;
+}
+.naviarrow{
+    color: #6E6E77;
+    height: 20px;
+    width: 20px;
+    margin-right: -8px;
+}
+.mlogo{
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-left: 20px;
+    height: 27.34px;
+    width: 35px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+}
+.settingslabel{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #4F4F4F;
+    margin-left: 15px;
+}
+.tglbtn{
+    margin-top: -14px;
+    padding-bottom: -10px;
+    margin-right: -15px;
+    height: 22px;
+    width: 45px;
+    color: #804BDF;
+}
+@media (min-width:370px) and (max-width:410px) {
+    .tglbtn{
+        margin-top: -2px;
+        margin-right: -5px;
+    }
+}
+@media (width:414px) {
+    .tglbtn{
+        margin-top: -2px;
+        margin-right: -5px;
+    }
+}
+@media (width:414px) {
+    .tglbtn{
+        margin-top: -2px;
+        margin-right: -5px;
+    }
+}
+@media (width:320px) {
+    .tglbtn{
+        margin-top: -2px;
+        margin-right: -5px;
+    }
+}
+@media (width:428px) {
+    .tglbtn{
+        margin-top: -2px;
+        margin-right: -5px;
+    }
+}
+@media (min-width: 710px) and (max-width:1200px) {
+    .tglbtn{
+        margin-top: -2px;
+        margin-right: -5px;
+    }
+}
+
+.fanaviicon{
+    color: #4B484A;
+    height: 20px;
+    width: 20px;
+    margin-left: 3px;
+}
