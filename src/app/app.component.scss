@@ -118,3 +118,6 @@ ion-note {
 ion-item.selected {
   --color: var(--ion-color-primary);
 }
+ion-item{
+  --background-color: transparent;
+}
